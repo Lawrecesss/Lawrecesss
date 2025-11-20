@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello, I am Lawrence!
+# 💫 Hello, I am Lawrence!
 
 
 ## 🌐 Socials:
