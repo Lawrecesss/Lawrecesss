@@ -61,17 +61,6 @@ These days I build **AI tooling**: agents that reason with ReAct, RAG systems, a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Lawrecesss&show_icons=true&hide=stars,issues&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-    <img src="https://github-stats-extended.vercel.app/api?username=Lawrecesss&show_icons=true&hide=stars,issues&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" height="165" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Lawrecesss&hide_border=true&theme=tokyonight&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-    <img src="https://streak-stats.demolab.com/?user=Lawrecesss&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="165" alt="Contribution streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lawrecesss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lawrecesss&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" height="165" alt="Most used languages" />
   </picture>
