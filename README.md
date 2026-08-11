@@ -28,19 +28,6 @@ These days I build **AI tooling**: agents that reason with ReAct, RAG systems, a
 
 ---
 
-### Featured Work
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[VidA](https://github.com/Lawrecesss/VidA)** | Video analysis tool driven by a ReAct agent loop | `Python` |
-| **[vaTSSDK](https://github.com/Lawrecesss/vaTSSDK)** | TypeScript SDK wrapping my Video Analysis API | `TypeScript` |
-| **[toolibz](https://github.com/Lawrecesss/toolibz)** | A tool hub for agents — reusable capabilities, one registry | `TypeScript` |
-| **[TravelAi](https://github.com/Lawrecesss/TravelAi)** | AI travel planning assistant | `Python` |
-| **[portfolio](https://github.com/Lawrecesss/portfolio)** | My site at [lhshein.dev](https://lhshein.dev/) | `Next.js` `TypeScript` |
-| **[inception](https://github.com/Lawrecesss/inception)** | Multi-service containerized web stack, built from scratch | `Docker` `Shell` |
-
----
-
 ### Tech Stack
 
 **Languages**
