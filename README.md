@@ -1,17 +1,109 @@
-# 💫 Hello, I am Lawrence!
+<h1 align="center">Lin Htet Shein</h1>
 
+<p align="center">
+  <a href="https://lhshein.dev/">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Full-stack+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+AI+tooling+that+actually+ships" alt="Software Developer — full-stack, AI tooling" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-htet-shein/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lhshein14@gmail.com) 
+<p align="center">
+  <a href="https://lhshein.dev/"><img src="https://img.shields.io/badge/Portfolio-lhshein.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/lin-htet-shein/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lhshein14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Lawrecesss&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lawrecesss&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lawrecesss&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrecesss&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lawrecesss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Full-stack developer who came up through low-level C before moving to the web — which is a long way of saying I like knowing what's happening underneath the abstraction.
+
+These days I build **AI tooling**: agents that reason with ReAct, RAG systems, and video-understanding pipelines. I care about clean architecture, readable code, and shipping things people actually use.
+
+- 🔭 Currently building **[VidA](https://github.com/Lawrecesss/VidA)** — video analysis with a ReAct agent loop
+- 🌱 Going deeper on agent orchestration, evals, and retrieval quality
+- 💬 Ask me about **TypeScript, Python, Next.js, or Docker**
+- 📫 Reach me at **lhshein14@gmail.com**
+
+---
+
+### Featured Work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[VidA](https://github.com/Lawrecesss/VidA)** | Video analysis tool driven by a ReAct agent loop | `Python` |
+| **[vaTSSDK](https://github.com/Lawrecesss/vaTSSDK)** | TypeScript SDK wrapping my Video Analysis API | `TypeScript` |
+| **[toolibz](https://github.com/Lawrecesss/toolibz)** | A tool hub for agents — reusable capabilities, one registry | `TypeScript` |
+| **[TravelAi](https://github.com/Lawrecesss/TravelAi)** | AI travel planning assistant | `Python` |
+| **[portfolio](https://github.com/Lawrecesss/portfolio)** | My site at [lhshein.dev](https://lhshein.dev/) | `Next.js` `TypeScript` |
+| **[inception](https://github.com/Lawrecesss/inception)** | Multi-service containerized web stack, built from scratch | `Docker` `Shell` |
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Data & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Lawrecesss&show_icons=true&hide=stars,issues&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Lawrecesss&show_icons=true&hide=stars,issues&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Lawrecesss&hide_border=true&theme=tokyonight&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    <img src="https://streak-stats.demolab.com/?user=Lawrecesss&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" height="165" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lawrecesss&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lawrecesss&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" height="165" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lawrecesss&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C9D1D9&line=58A6FF&point=58A6FF&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lawrecesss&hide_border=true&bg_color=00000000&color=1F2328&line=0969DA&point=0969DA&area=true" alt="Contribution activity graph" />
+  </picture>
+</p>
+
+---
+
+### Contribution Graph, Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lawrecesss/Lawrecesss/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Lawrecesss/Lawrecesss/output/pacman-contribution-graph.svg" alt="Pacman eating my contribution graph" />
+  </picture>
+</p>
