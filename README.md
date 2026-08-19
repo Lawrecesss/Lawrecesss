@@ -21,7 +21,7 @@ Full-stack developer who came up through low-level C before moving to the web �
 
 These days I build **AI tooling**: agents that reason with ReAct, RAG systems, and video-understanding pipelines. I care about clean architecture, readable code, and shipping things people actually use.
 
-- 🔭 Currently building **[VidA](https://github.com/Lawrecesss/VidA)** — video analysis with a ReAct agent loop
+- 🔭 Currently building **[Vida](https://github.com/Lawrecesss/VidA)** — video analysis with a ReAct agent loop
 - 🌱 Going deeper on agent orchestration, evals, and retrieval quality
 - 💬 Ask me about **TypeScript, Python, Next.js, or Docker**
 - 📫 Reach me at **lhshein14@gmail.com**
