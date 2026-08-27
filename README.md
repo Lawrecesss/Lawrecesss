@@ -66,16 +66,16 @@ These days I build **AI tooling**: agents that reason with ReAct, RAG systems, a
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lawrecesss&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C9D1D9&line=58A6FF&point=58A6FF&area=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lawrecesss&hide_border=true&bg_color=00000000&color=1F2328&line=0969DA&point=0969DA&area=true" alt="Contribution activity graph" />
   </picture>
-</p>
+</p> -->
 
 ---
 
-### Contribution Graph, Eaten
+
 
 <p align="center">
   <picture>
